@@ -12,3 +12,9 @@
 
 # Ignore bundler stubs
 bin
+
+# Ignore “output” folder
+output
+
+# Ignore “source” folder
+source
