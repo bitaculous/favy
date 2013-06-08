@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "favy",
+      "path": "./",
+      "file_exclude_patterns": [
+        ".gitkeep",
+        "*.sublime-workspace"
+      ],
+      "folder_exclude_patterns": [
+        ".bundle",
+        "bin"
+      ]
+    }
+  ]
+}
