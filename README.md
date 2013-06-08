@@ -13,7 +13,7 @@ Install
 Usage
 -----
 
-1. Replace “base.png” (“source” folder) with your favion image.
+1. Replace “favicon.png” (“source” folder) with your favion image.
 2. Run `rake`
 
 Options
