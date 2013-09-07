@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 group :default do
-  gem 'rake', '~> 10.0.4'
+  gem 'rake', '~> 10.1.0'
 
-  gem 'favicon_maker', '~> 0.2.1'
+  gem 'favicon_maker', '~> 0.2.3'
 end
