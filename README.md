@@ -21,6 +21,11 @@ Options
 
 See “Rakefile” or take a look at [Favicon Maker README](https://github.com/follmann/favicon_maker/blob/master/README.md "Favicon Maker README").
 
+Code Status
+-----------
+
+[<img src="https://gemnasium.com/bitaculous/favy.png?travis" title="Gemnasium Status" alt="Gemnasium Status" />](https://gemnasium.com/bitaculous/favy)
+
 Credits
 -------
 
