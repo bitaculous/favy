@@ -24,7 +24,7 @@ See “Rakefile” or take a look at [Favicon Maker README](https://github.com/f
 Credits
 -------
 
-All credits goes to [Andreas Follmann](https://github.com/follmann "Andreas Follmann"). “Favy” is just a tiny wrapper for [“Favicon Maker”](https://github.com/follmann/favicon_maker "Favicon Maker").
+All credit goes to [Andreas Follmann](https://github.com/follmann "Andreas Follmann"). “Favy” is just a tiny wrapper for [“Favicon Maker”](https://github.com/follmann/favicon_maker "Favicon Maker").
 If you meet Andreas, hug him and buy him a :beer:.
 
 License
