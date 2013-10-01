@@ -4,8 +4,8 @@
       "name": "favy",
       "path": "./",
       "file_exclude_patterns": [
-        ".gitkeep",
-        "*.sublime-workspace"
+        "*.sublime-workspace",
+        ".keep"
       ],
       "folder_exclude_patterns": [
         ".bundle",

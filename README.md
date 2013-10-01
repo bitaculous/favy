@@ -1,19 +1,19 @@
-[FAVY](https://github.com/mkempe/favy "favy")
-=============================================
+[FAVY](https://github.com/bitaculous/favy "favy")
+=================================================
 
 Generate gazillion different favicon versions with ease.
 
 Install
 -------
 
-    $ git clone git@github.com:mkempe/favy.git favy
+    $ git clone git@github.com:bitaculous/favy.git favy
     $ cd favy
     $ bundle
 
 Usage
 -----
 
-1. Replace “favicon.png” (“source” folder) with your favion image.
+1. Replace “favicon.png” in the “source” folder with your favion image.
 2. Run `rake`
 
 Options
