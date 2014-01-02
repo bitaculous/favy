@@ -1,16 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    favicon_maker (0.2.3)
+    favicon_maker (0.2.4)
       mini_magick (~> 3.5)
-    mini_magick (3.6.0)
+    mini_magick (3.7.0)
       subexec (~> 0.2.1)
-    rake (10.1.0)
+    rake (10.1.1)
     subexec (0.2.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  favicon_maker (~> 0.2.3)
+  favicon_maker (~> 0.2.4)
   rake (~> 10.1.0)
