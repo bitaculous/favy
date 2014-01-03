@@ -13,4 +13,4 @@ PLATFORMS
 
 DEPENDENCIES
   favicon_maker (~> 0.2.4)
-  rake (~> 10.1.0)
+  rake (~> 10.1.1)
