@@ -1,5 +1,5 @@
-[FAVY](https://github.com/bitaculous/favy "favy")
-=================================================
+[FAVY](http://bitaculous.github.io/favy "favy")
+===============================================
 
 Generate gazillion different favicon versions with ease.
 
