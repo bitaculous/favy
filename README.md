@@ -1,7 +1,7 @@
 [FAVY](http://bitaculous.github.io/favy "favy")
 ===============================================
 
-Generate gazillion different favicon versions with ease.
+**Generate gazillion different favicon versions with ease.**
 
 Favy generates the following favicons:
 
