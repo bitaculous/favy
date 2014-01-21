@@ -59,4 +59,4 @@ All credit goes to [Andreas Follmann](https://github.com/follmann "Andreas Follm
 License
 -------
 
-“Favy” is released under the MIT License, see “LICENSE”.
+Favy is released under the MIT License.
