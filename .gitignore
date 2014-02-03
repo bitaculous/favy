@@ -14,7 +14,7 @@
 bin
 
 # Ignore “output” folder
-output
+# output
 
 # Ignore “source” folder
 source
