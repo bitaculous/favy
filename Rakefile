@@ -1,5 +1,4 @@
 #!/usr/bin/env rake
-# encoding: utf-8
 
 require 'bundler/setup'
 require 'favicon_maker'
@@ -17,7 +16,7 @@ namespace :favy do
 
       from 'favicon.png' do
         icon 'favicon.ico', size: '48x48,32x32,16x16'
-        icon 'favicon.png', size: '64x64'
+        icon 'favicon.png', size: '256x256'
 
         icon 'apple-touch-icon.png', size: '57x57'
         icon 'apple-touch-icon-60x60.png', size: '60x60'
