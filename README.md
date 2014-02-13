@@ -5,7 +5,7 @@
 
 Favy generates the following favicons:
 
-* favicon.ico (16x16, 32x32, 48x48) — Desktop browsers, address bar, tabs, safari reading list, non-retina iPhone, windows 7+ taskbar, windows desktop
+* favicon.ico (48x48, 32x32, 16x16) — Desktop browsers, address bar, tabs, safari reading list, non-retina iPhone, windows 7+ taskbar, windows desktop
 * favicon.png (64x64) — Modern browsers
 * apple-touch-icon.png (57x57) — iPhone non-retina, Android 2.1+
 * apple-touch-icon-60x60.png (60x60) — iPhone iOS7+

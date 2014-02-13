@@ -16,7 +16,7 @@ namespace :favy do
       end
 
       from 'favicon.png' do
-        icon 'favicon.ico', size: '16x16,32x32,48x48'
+        icon 'favicon.ico', size: '48x48,32x32,16x16'
         icon 'favicon.png', size: '64x64'
 
         icon 'apple-touch-icon.png', size: '57x57'
