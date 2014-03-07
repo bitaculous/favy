@@ -10,8 +10,8 @@ namespace :favy do
       setup do
         root = File.expand_path '../', __FILE__
 
-        template_dir File.expand_path('source', root)
-        output_dir   File.expand_path('output', root)
+        template_dir File.expand_path 'source', root
+        output_dir   File.expand_path 'output', root
       end
 
       from 'favicon.png' do
