@@ -4,12 +4,6 @@
 # Ignore bundler configuration
 .bundle
 
-# Ignore ruby gemset configuration
-.ruby-gemset
-
-# Ignore ruby version configuration
-.ruby-version
-
 # Ignore bundler stubs
 bin
 
