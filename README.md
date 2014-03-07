@@ -54,7 +54,7 @@ Code Status
 Credits
 -------
 
-All credit goes to [Andreas Follmann](https://github.com/follmann "Andreas Follmann"). “Favy” is just a tiny wrapper for [“Favicon Maker”](https://github.com/follmann/favicon_maker "Favicon Maker").
+All credit goes to [Andreas Follmann](https://github.com/follmann "Andreas Follmann"). Favy is just a tiny wrapper for [“Favicon Maker”](https://github.com/follmann/favicon_maker "Favicon Maker").
 
 License
 -------
