@@ -7,7 +7,7 @@ GEM
       mini_magick (~> 3.7)
     mini_magick (3.7.0)
       subexec (~> 0.2.1)
-    rake (10.1.1)
+    rake (10.2.2)
     subexec (0.2.3)
 
 PLATFORMS
@@ -15,4 +15,4 @@ PLATFORMS
 
 DEPENDENCIES
   favicon_maker (~> 1.1.2)
-  rake (~> 10.1.1)
+  rake (~> 10.2.2)
