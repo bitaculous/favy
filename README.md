@@ -3,6 +3,8 @@
 
 **Generate gazillion different favicon versions with ease.**
 
+[![Gemnasium Status](https://gemnasium.com/bitaculous/favy.svg)](https://gemnasium.com/bitaculous/favy)
+
 Favy generates the following favicons:
 
 * favicon.ico (48x48, 32x32, 16x16) — Desktop browsers, address bar, tabs, safari reading list, non-retina iPhone, windows 7+ taskbar, windows desktop
@@ -38,18 +40,13 @@ Install
 Usage
 -----
 
-1. Replace “favicon.png” in the “source” folder with your favion image.
+1. Replace `favicon.png` in the `source` folder with your favion image.
 2. Run `rake`
 
 Options
 -------
 
-See “Rakefile” or take a look at [Favicon Maker README](https://github.com/follmann/favicon_maker/blob/master/README.md "Favicon Maker README").
-
-Code Status
------------
-
-[<img src="https://gemnasium.com/bitaculous/favy.png?travis" title="Gemnasium Status" alt="Gemnasium Status" />](https://gemnasium.com/bitaculous/favy)
+See `Rakefile` or take a look at [Favicon Maker README](https://github.com/follmann/favicon_maker/blob/master/README.md "Favicon Maker README").
 
 Credits
 -------
@@ -59,4 +56,4 @@ All credit goes to [Andreas Follmann](https://github.com/follmann "Andreas Follm
 License
 -------
 
-Favy is released under the MIT License.
+Favy is released under the MIT License (MIT), see [LICENSE](https://raw.githubusercontent.com/bitaculous/favy/master/LICENSE "License").
