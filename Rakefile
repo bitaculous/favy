@@ -43,7 +43,7 @@ namespace :favy do
       end
 
       each_icon do |icon|
-        puts "Generated icon “#{icon}”.\n"
+        puts "Generated `#{icon}`.\n"
       end
     end
   end
