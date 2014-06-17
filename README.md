@@ -1,5 +1,5 @@
-[FAVY](http://bitaculous.github.io/favy "favy")
-===============================================
+[Favy](http://bitaculous.github.io/favy "Generate gazillion different favicon versions with ease.")
+===================================================================================================
 
 **Generate gazillion different favicon versions with ease.**
 
@@ -51,9 +51,11 @@ See `Rakefile` or take a look at [Favicon Maker README](https://github.com/follm
 Credits
 -------
 
-All credit goes to [Andreas Follmann](https://github.com/follmann "Andreas Follmann"). Favy is just a tiny wrapper for [Favicon Maker](https://github.com/follmann/favicon_maker "Favicon Maker").
+All credit goes to [Andreas Follmann](https://github.com/follmann "Andreas Follmann"). Favy is just a tiny wrapper for
+[Favicon Maker](https://github.com/follmann/favicon_maker "Favicon Maker").
 
 License
 -------
 
-Favy is released under the MIT License (MIT), see [LICENSE](https://raw.githubusercontent.com/bitaculous/favy/master/LICENSE "License").
+[Favy](http://bitaculous.github.io/favy "Generate gazillion different favicon versions with ease.") is released under
+the MIT License (MIT), see [LICENSE](https://raw.githubusercontent.com/bitaculous/favy/master/LICENSE "License").

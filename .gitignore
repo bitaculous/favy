@@ -7,8 +7,8 @@
 # Ignore bundler stubs
 bin
 
-# Ignore “output” folder
+# Ignore `output` folder
 output
 
-# Ignore “source” folder
+# Ignore `source` folder
 source
