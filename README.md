@@ -40,7 +40,7 @@ Install
 Usage
 -----
 
-1. Replace `favicon.png` in the `source` folder with your favion image.
+1. Replace `favicon.png` in the `source` folder with your favicon image.
 2. Run `rake`
 
 Options
