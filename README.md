@@ -1,11 +1,11 @@
-[Favy](http://bitaculous.github.io/favy "Generate gazillion different favicon versions with ease.")
-===================================================================================================
+[Favy]
+======
 
 **Generate gazillion different favicon versions with ease.**
 
-[![Gemnasium Status](https://gemnasium.com/bitaculous/favy.svg)](https://gemnasium.com/bitaculous/favy)
+[![Gemnasium Status][Gemnasium Status]][Gemnasium]
 
-Favy generates the following favicons:
+[Favy] generates the following favicons:
 
 * favicon.ico (48x48, 32x32, 16x16) — Desktop browsers, address bar, tabs, safari reading list, non-retina iPhone, windows 7+ taskbar, windows desktop
 * favicon.png (256x256) — Modern browsers
@@ -46,16 +46,23 @@ Usage
 Options
 -------
 
-See `Rakefile` or take a look at [Favicon Maker README](https://github.com/follmann/favicon_maker/blob/master/README.md "Favicon Maker README").
+See `Rakefile` or take a look at [Favicon Maker README].
 
 Credits
 -------
 
-All credit goes to [Andreas Follmann](https://github.com/follmann "Andreas Follmann"). Favy is just a tiny wrapper for
-[Favicon Maker](https://github.com/follmann/favicon_maker "Favicon Maker").
+All credit goes to [Andreas Follmann]. [Favy] is just a tiny wrapper for [Favicon Maker].
 
 License
 -------
 
-[Favy](http://bitaculous.github.io/favy "Generate gazillion different favicon versions with ease.") is released under
-the MIT License (MIT), see [LICENSE](https://raw.githubusercontent.com/bitaculous/favy/master/LICENSE "License").
+[Favy] is released under the [MIT License (MIT)], see [LICENSE].
+
+[Andreas Follmann]: https://github.com/follmann "Andreas Follmann"
+[Favicon Maker README]: https://github.com/follmann/favicon_maker/blob/master/README.md "Favicon Maker README"
+[Favicon Maker]: https://github.com/follmann/favicon_maker "Favicon Maker"
+[Favy]: http://bitaculous.github.io/favy "Generate gazillion different favicon versions with ease."
+[Gemnasium Status]: http://img.shields.io/gemnasium/bitaculous/favy.svg?style=flat "Gemnasium Status"
+[Gemnasium]: https://gemnasium.com/bitaculous/favy "Favy at Gemnasium"
+[LICENSE]: https://raw.githubusercontent.com/bitaculous/favy/master/LICENSE "License"
+[MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"

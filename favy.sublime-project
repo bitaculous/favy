@@ -8,8 +8,7 @@
         ".keep"
       ],
       "folder_exclude_patterns": [
-        ".bundle",
-        "bin"
+        ".bundle"
       ]
     }
   ]
