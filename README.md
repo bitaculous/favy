@@ -5,7 +5,7 @@
 
 [![Gemnasium Status][Gemnasium Status]][Gemnasium]
 
-[Favy] generates the following favicons:
+Favy generates the following favicons:
 
 * favicon.ico (48x48, 32x32, 16x16) — Desktop browsers, address bar, tabs, safari reading list, non-retina iPhone, windows 7+ taskbar, windows desktop
 * favicon.png (256x256) — Modern browsers
