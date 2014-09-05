@@ -51,18 +51,18 @@ See `Rakefile` or take a look at [Favicon Maker README].
 Credits
 -------
 
-All credit goes to [Andreas Follmann]. [Favy] is just a tiny wrapper for [Favicon Maker].
+All credit goes to [Andreas Follmann], Favy is just a tiny wrapper for [Favicon Maker].
 
 License
 -------
 
-[Favy] is released under the [MIT License (MIT)], see [LICENSE].
+Favy is released under the [MIT License (MIT)], see [LICENSE].
 
 [Andreas Follmann]: https://github.com/follmann "Andreas Follmann"
-[Favicon Maker README]: https://github.com/follmann/favicon_maker/blob/master/README.md "Favicon Maker README"
 [Favicon Maker]: https://github.com/follmann/favicon_maker "Favicon Maker"
+[Favicon Maker README]: https://github.com/follmann/favicon_maker/blob/master/README.md "Favicon Maker README"
 [Favy]: http://bitaculous.github.io/favy "Generate gazillion different favicon versions with ease."
-[Gemnasium Status]: http://img.shields.io/gemnasium/bitaculous/favy.svg?style=flat "Gemnasium Status"
 [Gemnasium]: https://gemnasium.com/bitaculous/favy "Favy at Gemnasium"
+[Gemnasium Status]: http://img.shields.io/gemnasium/bitaculous/favy.svg?style=flat "Gemnasium Status"
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/favy/master/LICENSE "License"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
