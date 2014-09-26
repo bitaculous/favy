@@ -1,14 +1,5 @@
-# Ignore sublime workspace configuration
-*.sublime-workspace
-
-# Ignore bundler configuration
-.bundle
-
-# Ignore bundler stubs
-bin
-
-# Ignore `output` folder
-output
-
-# Ignore `source` folder
-source
+/.bundle/
+/bin/
+/favy.sublime-workspace
+/output/
+/source/
