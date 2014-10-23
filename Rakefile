@@ -15,9 +15,6 @@ namespace :favy do
       end
 
       from 'favicon.png' do
-        icon 'favicon.ico', size: '48x48,32x32,16x16'
-        icon 'favicon.png', size: '256x256'
-
         icon 'apple-touch-icon.png',         size: '57x57'
         icon 'apple-touch-icon-60x60.png',   size: '60x60'
         icon 'apple-touch-icon-72x72.png',   size: '72x72'
@@ -29,6 +26,9 @@ namespace :favy do
 
         icon 'coast-icon-228x228.png', size: '228x228'
 
+        icon 'favicon.ico', size: '48x48,32x32,16x16'
+        icon 'favicon.png', size: '256x256'
+
         icon 'firefox-icon-16x16.png',   size: '16x16'
         icon 'firefox-icon-32x32.png',   size: '32x32'
         icon 'firefox-icon-48x48.png',   size: '48x48'
@@ -39,9 +39,9 @@ namespace :favy do
         icon 'firefox-icon-128x128.png', size: '128x128'
         icon 'firefox-icon-256x256.png', size: '256x256'
 
-        icon 'windows-tile-144x144.png', size: '144x144'
-
         icon 'twitter-icon.png', size: '120x120'
+
+        icon 'windows-tile-144x144.png', size: '144x144'
       end
 
       each_icon do |icon|
