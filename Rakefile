@@ -39,7 +39,7 @@ namespace :favy do
         icon 'firefox-icon-128x128.png', size: '128x128'
         icon 'firefox-icon-256x256.png', size: '256x256'
 
-        icon 'twitter-icon.png', size: '120x120'
+        icon 'twitter-icon.png', size: '120x90'
 
         icon 'windows-tile-144x144.png', size: '144x144'
       end
