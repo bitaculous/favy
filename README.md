@@ -1,9 +1,9 @@
 [Favy]
 ======
 
-**Generate gazillion different favicon versions with ease.**
-
 [![Gemnasium Status][Gemnasium Status]][Gemnasium]
+
+**Generate gazillion different favicon versions with ease.**
 
 Favy generates the following favicons:
 
