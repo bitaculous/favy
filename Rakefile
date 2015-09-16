@@ -1,6 +1,7 @@
 #!/usr/bin/env rake
 
 require 'bundler/setup'
+
 require 'favicon_maker'
 
 namespace :favy do
