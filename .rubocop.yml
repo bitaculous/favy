@@ -1,0 +1,25 @@
+# This is the configuration used to check the `Favy` source code.
+
+# See <https://github.com/bbatsov/rubocop/blob/master/config/enabled.yml> for all the cops that are enabled in the
+# default RuboCop configuration.
+
+# Configuration
+# =============
+
+Style/AsciiComments:
+  Description: 'Use only ascii symbols in comments.'
+  StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#english-comments'
+  Enabled: false
+
+Style/SingleSpaceBeforeFirstArg:
+  Description: 'Checks that exactly one space is used between a method name and the first argument for method calls without parentheses.'
+  Enabled: false
+
+Style/TrailingBlankLines:
+  Description: 'Checks trailing blank lines and final newline.'
+  StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#newline-eof'
+  Enabled: false
+
+Metrics/LineLength:
+  Description: 'Limit lines to 120 characters with 10 characters as buffer.'
+  Max: 130
