@@ -3,10 +3,13 @@
 require 'bundler/setup'
 
 require 'favicon_maker'
+require 'pastel'
 
 namespace :favy do
   desc 'Generates gazillion different favicon versions.'
   task :generate do
+    pastel = Pastel.new
+
     FaviconMaker.generate do
       setup do
         root = File.expand_path '../', __FILE__
@@ -41,7 +44,7 @@ namespace :favy do
       end
 
       each_icon do |icon|
-        puts "Generated `#{icon}`.\n"
+        puts pastel.green("Generated `#{icon}`.")
       end
     end
   end

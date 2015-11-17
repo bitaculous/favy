@@ -2,15 +2,21 @@ GEM
   remote: https://rubygems.org/
   specs:
     docile (1.1.5)
+    equatable (0.5.0)
     favicon_maker (1.3)
       docile (~> 1.1)
+    pastel (0.5.1)
+      equatable (~> 0.5)
+      tty-screen (~> 0.4)
     rake (10.4.2)
+    tty-screen (0.4.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   favicon_maker (~> 1.3)
+  pastel (~> 0.5.1)
   rake (~> 10.4.2)
 
 BUNDLED WITH
