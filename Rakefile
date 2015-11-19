@@ -6,16 +6,18 @@ require 'favicon_maker'
 require 'pastel'
 
 namespace :favy do
-  desc 'Generates gazillion different favicon versions.'
+  desc 'Generates gazillion different favicon versions'
   task :generate do
     pastel = Pastel.new
 
     FaviconMaker.generate do
       setup do
-        root = File.expand_path '../', __FILE__
+        root          = File.expand_path '../', __FILE__
+        output_path   = File.expand_path 'output', root
+        template_path = File.expand_path 'template', root
 
-        output_dir   File.expand_path 'output', root
-        template_dir File.expand_path 'template', root
+        output_dir   output_path
+        template_dir template_path
       end
 
       from 'favicon.png' do
