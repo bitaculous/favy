@@ -11,10 +11,6 @@ Style/AsciiComments:
   StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#english-comments'
   Enabled: false
 
-Style/SingleSpaceBeforeFirstArg:
-  Description: 'Checks that exactly one space is used between a method name and the first argument for method calls without parentheses.'
-  Enabled: false
-
 Style/TrailingBlankLines:
   Description: 'Checks trailing blank lines and final newline.'
   StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#newline-eof'
