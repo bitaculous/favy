@@ -3,9 +3,9 @@
 
 [![Gemnasium Status][Gemnasium Status]][Gemnasium]
 
-**Generate gazillion different favicon versions with ease.**
+**Generate gazillion different Favicons with ease.**
 
-Favy generates the following favicons:
+Favy generates the following Favicons:
 
 | Filename                     | Size                | Description                                                                                               |
 | ---------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -43,13 +43,13 @@ Install
 Usage
 -----
 
-1. Replace `favicon.png` in the `template` folder with your favicon template image.
+1. Replace `favicon.png` in the `template` folder with your Favicon template image.
 2. Run `rake`
 
 Options
 -------
 
-See `Rakefile` or take a look at [Favicon Maker README].
+See `tasks/favy.rake` or take a look at [Favicon Maker README].
 
 Credits
 -------
