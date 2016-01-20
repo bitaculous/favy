@@ -43,7 +43,7 @@ Install
 Usage
 -----
 
-1. Replace `favicon.png` in the `template` folder with your Favicon template image.
+1. Replace `favicon.png` in the `template` folder with your Favicon template image
 2. Run `rake`
 
 Options
