@@ -15,8 +15,8 @@ Favy generates the following Favicons:
 | android-chrome-96x96.png     | 96x96               | Android, Chrome                                                                                           |
 | android-chrome-144x144.png   | 144x144             | Android, Chrome                                                                                           |
 | android-chrome-192x192.png   | 192x192             | Android, Chrome                                                                                           |
-| apple-touch-icon.png         | 57x57               | Android, Chrome                                                                                           |
-| apple-touch-icon-60x60.png   | 60x60               | iPhone iOS 7+                                                                                             |
+| apple-touch-icon.png         | 57x57               | iOS, Android, Chrome                                                                                      |
+| apple-touch-icon-60x60.png   | 60x60               | iOS 7                                                                                                     |
 | apple-touch-icon-72x72.png   | 72x72               | iPad non-Retina                                                                                           |
 | apple-touch-icon-76x76.png   | 76x76               | iPad non-Retina iOS 7                                                                                     |
 | apple-touch-icon-114x114.png | 114x114             | iPhone Retina, iOS 6 and lower                                                                            |
