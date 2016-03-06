@@ -36,9 +36,13 @@ Favy generates the following Favicons:
 Install
 -------
 
-    $ git clone git@github.com:bitaculous/favy.git favy
-    $ cd favy
-    $ bundle
+1. Clone the repository
+
+    ```shell
+    git clone git@github.com:bitaculous/favy.git
+    ```
+
+2. Run `bundle` to install all dependencies with [Bundler]
 
 Usage
 -----
@@ -62,6 +66,7 @@ License
 Favy is released under the [MIT License (MIT)], see [LICENSE].
 
 [Andreas Follmann]: https://github.com/follmann "Andreas Follmann"
+[Bundler]: http://bundler.io "The best way to manage a Ruby application's gems"
 [Favicon Maker]: https://github.com/follmann/favicon_maker "Favicon Maker"
 [Favicon Maker README]: https://github.com/follmann/favicon_maker/blob/master/README.md "Favicon Maker README"
 [Favy]: https://bitaculous.github.io/favy/ "Generate gazillion different favicon versions with ease."
