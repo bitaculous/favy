@@ -4,8 +4,7 @@
       "name": "favy",
       "path": "./",
       "folder_exclude_patterns": [
-        ".bundle",
-        "bin"
+        ".bundle"
       ],
       "file_exclude_patterns": [
         ".keep"
