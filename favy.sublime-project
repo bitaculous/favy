@@ -9,7 +9,7 @@
       ],
       "file_exclude_patterns": [
         ".keep"
-      ],
+      ]
     }
   ]
 }
