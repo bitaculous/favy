@@ -20,9 +20,9 @@ GEM
       rainbow (>= 1.99.1, < 3.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (~> 1.0, >= 1.0.1)
-    ruby-progressbar (1.8.0)
+    ruby-progressbar (1.8.1)
     tty-color (0.3.0)
-    unicode-display_width (1.0.3)
+    unicode-display_width (1.0.5)
 
 PLATFORMS
   ruby
@@ -34,4 +34,4 @@ DEPENDENCIES
   rubocop (~> 0.39.0)
 
 BUNDLED WITH
-   1.11.2
+   1.12.4
