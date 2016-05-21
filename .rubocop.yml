@@ -1,13 +1,10 @@
 # This is the configuration used to check the `Favy` source code.
 
-# See <https://github.com/bbatsov/rubocop/blob/master/config/enabled.yml> for all the cops that are enabled in the
-# default RuboCop configuration.
-
 # Configuration
 # =============
 
 Style/AsciiComments:
-  Description: 'Use only ascii symbols in comments.'
+  Description: 'Use only ASCII symbols in comments.'
   StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#english-comments'
   Enabled: false
 

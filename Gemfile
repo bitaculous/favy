@@ -14,5 +14,5 @@ gem 'pastel', '~> 0.6.1'
 # === Test ===
 
 group :test do
-  gem 'rubocop', '~> 0.39.0', require: false
+  gem 'rubocop', '~> 0.40.0', require: false
 end
