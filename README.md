@@ -58,7 +58,7 @@ See `tasks/favy.rake` or take a look at [Favicon Maker README].
 Credits
 -------
 
-All credits goes to [Andreas Follmann], Favy is just a tiny wrapper for [Favicon Maker].
+All credit goes to [Andreas Follmann], Favy is just a tiny wrapper for [Favicon Maker].
 
 License
 -------
