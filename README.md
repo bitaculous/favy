@@ -15,7 +15,7 @@ Favy generates the following Favicons:
 | android-chrome-96x96.png     | 96x96               | Android, Chrome                                                                                           |
 | android-chrome-144x144.png   | 144x144             | Android, Chrome                                                                                           |
 | android-chrome-192x192.png   | 192x192             | Android, Chrome                                                                                           |
-| apple-touch-icon.png         | 57x57               | iOS, Android, Chrome                                                                                      |
+| apple-touch-icon-57x57.png   | 57x57               | iOS, Android, Chrome                                                                                      |
 | apple-touch-icon-60x60.png   | 60x60               | iOS 7                                                                                                     |
 | apple-touch-icon-72x72.png   | 72x72               | iPad non-Retina                                                                                           |
 | apple-touch-icon-76x76.png   | 76x76               | iPad non-Retina iOS 7                                                                                     |
@@ -24,8 +24,11 @@ Favy generates the following Favicons:
 | apple-touch-icon-144x144.png | 144x144             | iPad Retina                                                                                               |
 | apple-touch-icon-152x152.png | 152x152             | iPad Retina iOS 7 and higher                                                                              |
 | apple-touch-icon-180x180.png | 180x180             | iPad Retina iOS 8 and higher                                                                              |
+| favicon-16x16.png            | 16x16               | Modern browsers                                                                                           |
+| favicon-32x32.png            | 32x32               | Modern browsers                                                                                           |
+| favicon-96x96.png            | 96x96               | Modern browsers                                                                                           |
+| favicon-192x192.png          | 192x192             | Modern browsers                                                                                           |
 | favicon.ico                  | 48x48, 32x32, 16x16 | Desktop browsers, Address bar, Tabs, Reading List, Non-retina iPhone, Windows 7+ Taskbar, Windows desktop |
-| favicon.png                  | 256x256             | Modern browsers                                                                                           |
 | ms-tile-70x70.png            | 70x70               | Windows 8+ Tile, Browser configuration                                                                    |
 | ms-tile-144x144.png          | 144x144             | Windows 8+ Tile, Browser configuration                                                                    |
 | ms-tile-150x150.png          | 150x150             | Windows 8+ Tile, Browser configuration                                                                    |
