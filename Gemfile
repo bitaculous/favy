@@ -1,4 +1,5 @@
 #!/usr/bin/env bundle
+# frozen_string_literal: true
 
 source 'https://rubygems.org'
 
@@ -8,11 +9,11 @@ gem 'favicon_maker', '~> 1.3.1'
 
 # === Tasks ===
 
-gem 'rake',   '~> 11.2.2'
-gem 'pastel', '~> 0.6.1'
+gem 'pastel', '~> 0.7.0'
+gem 'rake',   '~> 12.0.0'
 
 # === Test ===
 
 group :test do
-  gem 'rubocop', '~> 0.40.0', require: false
+  gem 'rubocop', '~> 0.46.0', require: false
 end
