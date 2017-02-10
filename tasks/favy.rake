@@ -4,6 +4,7 @@
 require 'favicon_maker'
 require 'pastel'
 
+# rubocop:disable Metrics/BlockLength
 namespace :favy do
   desc 'Generates gazillion different favicon versions'
   task :generate do
