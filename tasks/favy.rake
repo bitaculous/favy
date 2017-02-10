@@ -37,11 +37,13 @@ namespace :favy do
         icon 'apple-touch-icon-144x144.png', size: '144x144'
         icon 'apple-touch-icon-152x152.png', size: '152x152'
         icon 'apple-touch-icon-180x180.png', size: '180x180'
+        icon 'apple-touch-icon.png',         size: '57x57'
 
         icon 'favicon-16x16.png',            size: '16x16'
         icon 'favicon-32x32.png',            size: '32x32'
         icon 'favicon-96x96.png',            size: '96x96'
         icon 'favicon-192x192.png',          size: '192x192'
+        icon 'favicon.png',                  size: '256x256'
         icon 'favicon.ico',                  size: '48x48,32x32,16x16'
 
         icon 'mstile-70x70.png',             size: '70x70'
