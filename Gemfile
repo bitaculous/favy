@@ -15,5 +15,5 @@ gem 'rake',   '~> 12.0.0'
 # === Test ===
 
 group :test do
-  gem 'rubocop', '~> 0.47.1', require: false
+  gem 'rubocop', '~> 0.49.1', require: false
 end
