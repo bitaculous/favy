@@ -9,11 +9,11 @@ gem 'favicon_maker', '~> 1.3.1'
 
 # === Tasks ===
 
-gem 'pastel', '~> 0.7.0'
-gem 'rake',   '~> 12.1.0'
+gem 'pastel', '~> 0.7.2'
+gem 'rake',   '~> 12.3.0'
 
 # === Test ===
 
 group :test do
-  gem 'rubocop', '~> 0.50.0', require: false
+  gem 'rubocop', '~> 0.52.1', require: false
 end

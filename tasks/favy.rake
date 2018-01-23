@@ -63,3 +63,4 @@ namespace :favy do
     end
   end
 end
+# rubocop:enable Metrics/BlockLength
