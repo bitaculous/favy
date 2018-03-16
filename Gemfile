@@ -6,6 +6,7 @@ source 'https://rubygems.org'
 # === Image processing ===
 
 gem 'favicon_maker', '~> 1.3.1'
+gem 'ptools',        '~> 1.3.5'
 
 # === Tasks ===
 
@@ -15,5 +16,5 @@ gem 'rake',   '~> 12.3.0'
 # === Test ===
 
 group :test do
-  gem 'rubocop', '~> 0.52.1', require: false
+  gem 'rubocop', '~> 0.53.0', require: false
 end
