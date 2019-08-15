@@ -29,7 +29,6 @@ namespace :favy do
           icon 'android-chrome-96x96.png',     size: '96x96'
           icon 'android-chrome-144x144.png',   size: '144x144'
           icon 'android-chrome-192x192.png',   size: '192x192'
-
           icon 'apple-touch-icon-57x57.png',   size: '57x57'
           icon 'apple-touch-icon-60x60.png',   size: '60x60'
           icon 'apple-touch-icon-72x72.png',   size: '72x72'
@@ -40,7 +39,6 @@ namespace :favy do
           icon 'apple-touch-icon-152x152.png', size: '152x152'
           icon 'apple-touch-icon-180x180.png', size: '180x180'
           icon 'apple-touch-icon.png',         size: '180x180'
-
           icon 'favicon-16x16.png',            size: '16x16'
           icon 'favicon-32x32.png',            size: '32x32'
           icon 'favicon-48x48.png',            size: '48x48'
@@ -48,13 +46,11 @@ namespace :favy do
           icon 'favicon-192x192.png',          size: '192x192'
           icon 'favicon.png',                  size: '256x256'
           icon 'favicon.ico',                  size: '48x48,32x32,16x16'
-
           icon 'mstile-70x70.png',             size: '70x70'
           icon 'mstile-144x144.png',           size: '144x144'
           icon 'mstile-150x150.png',           size: '150x150'
           icon 'mstile-310x310.png',           size: '310x310'
           icon 'mstile-310x150.png',           size: '310x150'
-
           icon 'twitter-icon.png',             size: '120x90'
         end
 

@@ -24,9 +24,10 @@ Favy generates the following Favicons:
 | apple-touch-icon-144x144.png | 144x144             | iPad Retina                                                                                               |
 | apple-touch-icon-152x152.png | 152x152             | iPad Retina iOS 7 and higher                                                                              |
 | apple-touch-icon-180x180.png | 180x180             | iPad Retina iOS 8 and higher                                                                              |
-| apple-touch-icon.png         | 57x57               | iOS, Android, Chrome                                                                                      |
+| apple-touch-icon.png         | 180x180             | iOS, Android, Chrome                                                                                      |
 | favicon-16x16.png            | 16x16               | Modern browsers                                                                                           |
 | favicon-32x32.png            | 32x32               | Modern browsers                                                                                           |
+| favicon-48x48.png            | 48x48               | Modern browsers                                                                                           |
 | favicon-96x96.png            | 96x96               | Modern browsers                                                                                           |
 | favicon-192x192.png          | 192x192             | Modern browsers                                                                                           |
 | favicon.png                  | 256x256             | Modern browsers                                                                                           |
