@@ -9,11 +9,12 @@ require 'ptools'
 namespace :favy do
   desc 'Generates gazillion different favicon versions'
   task :generate do
+    pastel = Pastel.new
+
     if File.which('convert')
       root          = File.expand_path '..', __dir__
       output_path   = File.expand_path 'output', root
       template_path = File.expand_path 'source', root
-      pastel        = Pastel.new
 
       FaviconMaker.generate do
         setup do
@@ -57,6 +58,10 @@ namespace :favy do
       if command?('open')
         system "open #{output_path}"
       end
+    else
+      message = pastel.yellow "`convert` command was not found."
+
+      puts message
     end
   end
 

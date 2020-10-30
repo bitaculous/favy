@@ -31,6 +31,13 @@ Favy generates the following favicons:
 | 512x512             | Modern browsers                                                                                           | 512x512.png |
 | 48x48, 32x32, 16x16 | Address bar, Desktop browsers, Non-retina iPhone, Reading List, Tabs, Windows 7+ Taskbar, Windows desktop | favicon.ico |
 
+Requirements
+------------
+
+* [Ruby]
+* [Bundler]
+* [GraphicsMagick] or [ImageMagick]
+
 Install
 -------
 
@@ -69,5 +76,8 @@ Favy is released under the [MIT License (MIT)], see [LICENSE].
 [Favicon Maker]: https://github.com/follmann/favicon_maker "Favicon Maker"
 [Favicon Maker README]: https://github.com/follmann/favicon_maker/blob/master/README.md "Favicon Maker README"
 [Favy]: https://bitaculous.github.io/favy/ "Generate gazillion different favicon versions with ease."
+[GraphicsMagick]: http://www.graphicsmagick.org "GraphicsMagick Image Processing System"
+[ImageMagick]: https://imagemagick.org "Convert, Edit, or Compose Bitmap Images"
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/favy/master/LICENSE "License"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
+[Ruby]: https://www.ruby-lang.org "A dynamic, open source programming language with a focus on simplicity and productivity."
