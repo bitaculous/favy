@@ -76,7 +76,7 @@ Favy is released under the [MIT License (MIT)], see [LICENSE].
 [Favicon Maker]: https://github.com/follmann/favicon_maker "Favicon Maker"
 [Favicon Maker README]: https://github.com/follmann/favicon_maker/blob/master/README.md "Favicon Maker README"
 [Favy]: https://bitaculous.github.io/favy/ "Generate gazillion different favicon versions with ease."
-[Gemnasium]: https://gemnasium.com/bitaculous/favy "Favy at Gemnasium"
 [Gemnasium Status]: https://img.shields.io/gemnasium/bitaculous/favy.svg?style=flat "Gemnasium Status"
+[Gemnasium]: https://gemnasium.com/bitaculous/favy "Favy at Gemnasium"
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/favy/master/LICENSE "License"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"

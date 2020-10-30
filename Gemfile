@@ -9,15 +9,15 @@ gem 'favicon_maker', '~> 1.3.1'
 
 # === Tasks ===
 
-gem 'pastel', '~> 0.7.3'
-gem 'rake',   '~> 12.3.3'
+gem 'pastel', '~> 0.8.0'
+gem 'rake',   '~> 13.0.1'
 
 # === Misc ===
 
-gem 'ptools', '~> 1.3.5'
+gem 'ptools', '~> 1.4.0'
 
 # === Test ===
 
 group :test do
-  gem 'rubocop', '~> 0.74.0', require: false
+  gem 'rubocop', '~> 1.1.0', require: false
 end
