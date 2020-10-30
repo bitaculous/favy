@@ -11,8 +11,8 @@ namespace :favy do
   task :generate do
     if File.which('convert')
       root          = File.expand_path '..', __dir__
-      output_path   = File.expand_path 'favicons', root
-      template_path = File.expand_path 'template', root
+      output_path   = File.expand_path 'output', root
+      template_path = File.expand_path 'source', root
       pastel        = Pastel.new
 
       FaviconMaker.generate do
