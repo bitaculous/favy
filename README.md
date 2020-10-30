@@ -28,8 +28,8 @@ Favy generates the following favicons:
 | 256x256             | Modern browsers                                                                                           | 256x256.png |
 | 310x150             | Windows 8+ Tile, Browser configuration                                                                    | 310x150.png |
 | 310x310             | Windows 8+ Tile, Browser configuration                                                                    | 310x310.png |
-| 48x48, 32x32, 16x16 | Address bar, Desktop browsers, Non-retina iPhone, Reading List, Tabs, Windows 7+ Taskbar, Windows desktop | favicon.ico |
 | 512x512             | Modern browsers                                                                                           | 512x512.png |
+| 48x48, 32x32, 16x16 | Address bar, Desktop browsers, Non-retina iPhone, Reading List, Tabs, Windows 7+ Taskbar, Windows desktop | favicon.ico |
 
 Install
 -------
@@ -45,9 +45,9 @@ Install
 Usage
 -----
 
-1. Replace `favicon.png` in the `template` folder with your favicon template image
+1. Replace `favicon.png` in the `source` folder with your favicon template image
 2. Run `rake`
-3. Voilà your gazillion different favicons, created by Favy
+3. Voilà your gazillion different favicons created by Favy
 
 Options
 -------
