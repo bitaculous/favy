@@ -8,13 +8,13 @@ AllCops:
   NewCops: enable
   TargetRubyVersion: 2.5
 
+Layout/LineLength:
+  Description: 'Limit lines to 140 characters.'
+  Max: 140
+
 Lint/ScriptPermission:
   Description: 'Grant script file execute permission.'
   Enabled: false
-
-Metrics/LineLength:
-  Description: 'Limit lines to 140 characters.'
-  Max: 140
 
 Style/AsciiComments:
   Description: 'Use only ASCII symbols in comments.'

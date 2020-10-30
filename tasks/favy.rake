@@ -1,6 +1,7 @@
 #!/usr/bin/env rake
 # frozen_string_literal: true
 
+require 'English'
 require 'favicon_maker'
 require 'pastel'
 require 'ptools'
@@ -49,17 +50,16 @@ namespace :favy do
         end
 
         each_icon do |icon|
-          message = pastel.green "Generated `#{icon}`."
+          basename = File.basename(icon)
+          message = pastel.green "Generated `#{basename}`."
 
           puts message
         end
       end
 
-      if command?('open')
-        system "open #{output_path}"
-      end
+      system "open #{output_path}" if command?('open')
     else
-      message = pastel.yellow "`convert` command was not found."
+      message = pastel.yellow '`convert` command was not found.'
 
       puts message
     end
@@ -68,7 +68,7 @@ namespace :favy do
   def command?(name)
     `which #{name}`
 
-    $?.success?
+    $CHILD_STATUS.success?
   end
 end
 # rubocop:enable Metrics/BlockLength
