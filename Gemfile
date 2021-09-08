@@ -3,21 +3,21 @@
 
 source 'https://rubygems.org'
 
-# === Favicon ===
+# === Core ===
 
 gem 'favicon_maker', '~> 1.3.1'
 
 # === Tasks ===
 
 gem 'pastel', '~> 0.8.0'
-gem 'rake',   '~> 13.0.1'
+gem 'rake',   '~> 13.0.6'
 
 # === Misc ===
 
-gem 'ptools', '~> 1.4.0'
+gem 'ptools', '~> 1.4.2'
 
 # === Test ===
 
 group :test do
-  gem 'rubocop', '~> 1.1.0', require: false
+  gem 'rubocop', '~> 1.20.0', require: false
 end
