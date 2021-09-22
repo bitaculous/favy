@@ -2,11 +2,13 @@
 #
 # See <https://github.com/rubocop-hq/rubocop/blob/master/config/default.yml> for more details.
 
+require: rubocop-rake
+
 # === Overrides ===
 
 AllCops:
   NewCops: enable
-  TargetRubyVersion: 2.5
+  TargetRubyVersion: 3.0
 
 Layout/LineLength:
   Description: 'Limit lines to 140 characters.'

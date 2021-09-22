@@ -6,6 +6,12 @@ require 'favicon_maker'
 require 'pastel'
 require 'ptools'
 
+def command?(name)
+  `which #{name}`
+
+  $CHILD_STATUS.success?
+end
+
 # rubocop:disable Metrics/BlockLength
 namespace :favy do
   desc 'Generates gazillion different favicon versions'
@@ -63,12 +69,6 @@ namespace :favy do
 
       puts message
     end
-  end
-
-  def command?(name)
-    `which #{name}`
-
-    $CHILD_STATUS.success?
   end
 end
 # rubocop:enable Metrics/BlockLength
