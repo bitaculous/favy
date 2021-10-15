@@ -52,7 +52,7 @@ Install
 Usage
 -----
 
-1. Replace `favicon.png` in the `source` folder with your favicon template image
+1. Replace `favicon.svg` in the `source` folder with your favicon template image
 2. Run `rake`
 3. Voilà your gazillion different favicons created by Favy
 
