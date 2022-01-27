@@ -19,6 +19,6 @@ gem 'ptools', '~> 1.4.2'
 # === Test ===
 
 group :test do
-  gem 'rubocop', '~> 1.22.0', require: false
+  gem 'rubocop', '~> 1.25.0', require: false
   gem 'rubocop-rake', '~> 0.6.0', require: false
 end

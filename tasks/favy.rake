@@ -58,7 +58,7 @@ namespace :favy do
 
         each_icon do |icon|
           basename = File.basename(icon)
-          message = pastel.green "Generated `#{basename}`."
+          message = pastel.green "Generating `#{basename}`..."
 
           puts message
         end
