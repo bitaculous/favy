@@ -29,7 +29,7 @@ namespace :favy do
           template_dir template_path
         end
 
-        from 'favicon.svg' do
+        from 'favicon.*' do
           icon '16x16.png',   size: '16x16'
           icon '32x32.png',   size: '32x32'
           icon '36x36.png',   size: '36x36'

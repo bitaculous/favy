@@ -43,7 +43,7 @@ Install
 
 1. Clone the repository
 
-    ```shell
+    ```sh
     git clone git@github.com:bitaculous/favy.git
     ```
 
