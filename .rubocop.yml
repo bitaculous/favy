@@ -11,8 +11,8 @@ AllCops:
   TargetRubyVersion: 3.2
 
 Layout/LineLength:
-  Description: 'Limit lines to 140 characters.'
-  Max: 140
+  Description: 'Limit lines to 120 characters.'
+  Max: 120
 
 Lint/ScriptPermission:
   Description: 'Grant script file execute permission.'
